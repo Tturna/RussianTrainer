@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace RussianTrainer
 {
-    public partial class Form1 : Form
+    public partial class TrainControl1 : UserControl
     {
-        public Form1()
+        public TrainControl1()
         {
             InitializeComponent();
         }

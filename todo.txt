@@ -1,0 +1,16 @@
+﻿Features:
+
+- Vocabulary training
+	- Show random English words that need to be translated
+	- ^ Vice versa
+	- Show random images that need to be typed in Russian
+	- Numbers training
+		- to be elaborated
+
+- Grammar training
+	- Fill-the-gaps sentences
+	- Noun cases training
+		- to be elaborated
+
+- Keyboard layout training
+	- Random letters that need to be pressed on the keyboard
